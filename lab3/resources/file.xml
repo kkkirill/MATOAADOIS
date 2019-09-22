@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<banks_list>
+    <bank>
+        <name>ICBC</name>
+        <founding_date>1984</founding_date>
+        <description>
+            <capital>
+                339
+                <capital_unit>
+                    billion of dollars
+                </capital_unit>
+            </capital>
+            <workers_amount>453048</workers_amount>
+            <headquarters>
+                <country>
+                    China
+                    <city>
+                        Beijing
+                    </city>
+                </country>
+            </headquarters>
+            <history>
+                As of 2006, ICBC has 2.5 million corporate customers and 150 million individual customers. In 2005, net
+                profit was up 12.4% to RMB 33.7 billion, and the total loan balance was RMB 3,289.5 billion. Total
+                liabilities are RMB 6,196.2 billion, up 11.2%. Delinquent or non-performing loans (NPL) total RMB 154.4
+                billion, a significant reduction although the figures are widely regarded as being somewhat higher than
+                officially stated. It has an NPL ratio of 4.69% and a capital adequacy ratio of 9.89%.
+
+                As of December 2, 2014, ICBC is ranked the largest bank in the world by assets and by tier 1 capital. In
+                July 2007 it was ranked 30th in the world in terms of revenue.
+            </history>
+            <awards>
+                <award>Best Banking Performer, China in 2016 by Global Brands Magazine Award</award>
+                <award>Global 2000 Rank #1 - World's Largest Public Companies in 2016</award>
+                <award>List of Awards to ICBC in 2016</award>
+            </awards>
+        </description>
+    </bank>
+    <bank>
+        <name>CCB</name>
+        <founding_date>1954</founding_date>
+        <description>
+            <capital>
+                290
+                <capital_unit>
+                    billion of dollars
+                </capital_unit>
+            </capital>
+            <workers_amount>345971</workers_amount>
+            <headquarters>
+                <country>
+                    China
+                    <city>
+                        Beijing
+                    </city>
+                </country>
+            </headquarters>
+            <history>
+                CCB was founded on 1 October 1954 under the name of People's Construction Bank of China and later
+                changed to China Construction Bank on 26
+                March 1996.
+
+                In January 2002, CCB Chairman Wang Xuebing resigned from the bank after being charged with accepting
+                bribes while he was employed with Bank of China; he was sentenced to 12 years in prison. In March 2005,
+                his successor, Zhang Enzhao, resigned for "personal reasons". Just prior to his resignation, he had been
+                charged in a lawsuit with accepting a US$1 million bribe. He was later sentenced to 15 years in jail in
+                connection with the case.
+
+                China Construction Bank Corporation was formed as a joint-stock commercial bank in September 2004 as a
+                result of a separation procedure undertaken by its predecessor, China Construction Bank, under the PRC
+                Company Law. Following the China Banking Regulatory Committee's approval on 14 September 2004, the next
+                day the bank (Jianyin) became a separate legal entity, owned by the Chinese government holding company,
+                Central Huijin Investment Company or simply Huijin.
+
+                During the 2013 Korean crisis, the China Construction Bank halted business with a North Korean bank
+                accused by the United States of financing Pyongyang's missile and nuclear programs.
+
+                In 2015, China Construction Bank ranks the 2nd in Forbes’ 13th annual Global 2000 ranking of the
+                biggest, most powerful and most valuable companies in the world.
+            </history>
+            <awards>
+                <award>Global 2000 Rank #2 - World's Largest Public Companies in 2016</award>
+            </awards>
+        </description>
+    </bank>
+</banks_list>
