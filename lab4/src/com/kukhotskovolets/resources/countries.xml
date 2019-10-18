@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<countries>
+    <country name="Belgium" population="11480534">
+        <capital>Brussels</capital>
+        <polity>Constitutional monarchy</polity>
+        <foundingDate>1830</foundingDate>
+        <area units="km2">30528</area>
+    </country>
+    <country name="Germany" population="83019200">
+        <capital>Berlin</capital>
+        <polity>Federal parliamentary republic</polity>
+        <foundingDate>1990</foundingDate>
+        <area units="km2">357385</area>
+    </country>
+    <country name="France" population="65060692">
+        <capital>Paris</capital>
+        <polity>Democratic republic</polity>
+        <foundingDate>1958</foundingDate>
+        <area units="km2">547030</area>
+    </country>
+    <country name="United Kingdom" population="66273576">
+        <capital>London</capital>
+        <polity>Parliamentary monarchy</polity>
+        <foundingDate>1922</foundingDate>
+        <area units="km2">243809</area>
+    </country>
+    <country name="Spain" population="46714997">
+        <capital>Madrid</capital>
+        <polity>Constitutional monarchy</polity>
+        <foundingDate>1479</foundingDate>
+        <area units="km2">505990</area>
+    </country>
+</countries>
