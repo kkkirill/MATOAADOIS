@@ -1,33 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="countries_main.xsl"?>
 <countries>
     <country name="Belgium" population="11480534">
         <capital>Brussels</capital>
         <polity>Constitutional monarchy</polity>
-        <foundingDate>1830</foundingDate>
+        <foundingDate isoValue="18301004">04.10.1830</foundingDate>
         <area units="km2">30528</area>
     </country>
     <country name="Germany" population="83019200">
         <capital>Berlin</capital>
         <polity>Federal parliamentary republic</polity>
-        <foundingDate>1990</foundingDate>
+        <foundingDate isoValue="19901003">03.10.1990</foundingDate>
         <area units="km2">357385</area>
     </country>
     <country name="France" population="65060692">
         <capital>Paris</capital>
         <polity>Democratic republic</polity>
-        <foundingDate>1958</foundingDate>
+        <foundingDate isoValue="17890714">14.07.1789</foundingDate>
         <area units="km2">547030</area>
     </country>
     <country name="United Kingdom" population="66273576">
         <capital>London</capital>
         <polity>Parliamentary monarchy</polity>
-        <foundingDate>1922</foundingDate>
+        <foundingDate isoValue="18010101">01.01.1801</foundingDate>
         <area units="km2">243809</area>
     </country>
     <country name="Spain" population="46714997">
         <capital>Madrid</capital>
         <polity>Constitutional monarchy</polity>
-        <foundingDate>1479</foundingDate>
+        <foundingDate isoValue="14790120">20.01.1479</foundingDate>
         <area units="km2">505990</area>
     </country>
 </countries>
